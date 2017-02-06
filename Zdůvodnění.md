@@ -5,6 +5,7 @@
 Dalo by se říci, že to tak je. ale co s tím můžeme dělat? Hledat a zkoušet nové cesty jak mladé oslovit.
 
 ## Proč tato alternativní verze vzniká
-* ČRK je natransparentní
-* radioamatérská komu
+* ČRK je natransparentní, v podstatě nikdo neví co vedení ČRK dělá
+* radioamatérská komunita je rozštěpená
+* radioamatérské komunita stárne
 *

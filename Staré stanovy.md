@@ -1,275 +1,279 @@
-§ 1 - Všeobecná ustanovení
-
-Èeskı radioklub (zkratkou ÈRK) je sdruením èinnım dle zákona o sdruování obèanù. Sdruuje zájemce o všechny radioamatérské èinnosti a sporty. Jeho posláním je radioamatérská, sportovní, vzdìlávací a kulturní èinnost a pøíspìvek celoivotnímu vzdìlávání èlenù i veøejnosti. Èeskı radioklub je sdruením nezávislım a nepolitickım.
-Èeskı radioklub je právnickou osobou. Pùsobí v Èeské republice. Jeho sídlo je na adrese U Pergamenky 3, 170 00 Praha 7.
-Èeskı radioklub reprezentuje spoleèné zájmy svıch èlenù vùèi orgánùm Èeské republiky a dalších zemí i vùèi nevládním organizacím domácím, zahranièním i mezinárodním. Jako èlen Mezinárodní radioamatérské unie (IARU) zastupuje ÈRK spoleèné odborné zájmy radioamatérù Èeské republiky v zahranièí.
-
-§ 2 - Vznik a zánik èlenství
-
-Èlenem ÈRK se mùe stát bez rozdílu státní pøíslušnosti a národnosti kadı, kdo bude respektovat Stanovy ÈRK. K èlenství se lze pøihlásit podáním písemné pøihlášky pøímo nebo prostøednictvím kteréhokoli radioklubu ÈRK. Souhlas s pøihláškou zájemce mladšího 15 let musí bıt na pøihlášce doloen podpisem rodièe nebo zákonného zástupce. Pøihlášku podanou prostøednictvím radioklubu ÈRK doruèí Radì ÈRK vıbor tohoto radioklubu.
-Èleny ÈRK registruje Rada ÈRK. Rada provede registraci po zaplacení pøíslušnıch poplatkù. Èlenství vzniká dnem registrace, o èem Rada ÈRK uvìdomí adatele zasláním èlenského prùkazu. adatel, jeho registrace byla odmítnuta, má právo odvolat se ke sjezdu ÈRK, jeho rozhodnutí je koneèné.
-
-Èlenství zaniká
-vzdáním se èlenství podáním vlastnoruènì podepsaného písemného oznámení Radì ÈRK,
-neuhrazením èlenskıch pøíspìvkù ÈRK za dobu delší ne jeden rok,
-zrušením èlenství pro závané porušení Stanov ÈRK,
-úmrtím.
+Â§ 1 - VÅ¡eobecnÃ¡ ustanovenÃ­
+ÄŒeskÃ½ radioklub (zkratkou ÄŒRK) je sdruÅ¾enÃ­m ÄinnÃ½m dle zÃ¡kona o sdruÅ¾ovÃ¡nÃ­ obÄanÅ¯. SdruÅ¾uje zÃ¡jemce o vÅ¡echny radioamatÃ©rskÃ© Äinnosti a sporty. Jeho poslÃ¡nÃ­m je radioamatÃ©rskÃ¡, sportovnÃ­, vzdÄ›lÃ¡vacÃ­ a kulturnÃ­ Äinnost a pÅ™Ã­spÄ›vek celoÅ¾ivotnÃ­mu vzdÄ›lÃ¡vÃ¡nÃ­ ÄlenÅ¯ i veÅ™ejnosti. ÄŒeskÃ½ radioklub je sdruÅ¾enÃ­m nezÃ¡vislÃ½m a nepolitickÃ½m.
  
 
-O zrušení èlenství rozhoduje Rada ÈRK. Èlenu musí bıt písemnì oznámeno v pøedstihu nejménì dvou tıdnù projednání a zdùvodnìní návrhu. Jeho pøípadné námitky musí bıt projednány spolu s návrhem. Èlen má právo odvolat se proti rozhodnutí o zrušení èlenství ke sjezdu ÈRK, jeho rozhodnutí je koneèné.
-§ 3 - Práva a povinnosti èlenù
-Èlen ÈRK má právo
-za stanovenıch podmínek úèastnit se èinností poøádanıch ÈRK a uívat èlenskıch slueb ÈRK,
-pøedkládat návrhy orgánùm ÈRK,
-volit a bıt volen do orgánù ÈRK, je-li starší 18 rokù.
- 
+ÄŒeskÃ½ radioklub je prÃ¡vnickou osobou. PÅ¯sobÃ­ v ÄŒeskÃ© republice. Jeho sÃ­dlo je na adrese U Pergamenky 3, 170 00 Praha 7.
 
-Èlen ÈRK je povinen
-dodrovat stanovy ÈRK,
-dbát zásad radioamatérského ducha, zejména v radioamatérském provozu,
-respektovat usnesení a rozhodnutí orgánù ÈRK,
-platit èlenské pøíspìvky ve stanovenıch lhùtách.
- 
 
-Èlenské pøíspìvky se uhrazují v penìzích. Minimální vıši èástky a zpùsob úhrady stanoví Rada ÈRK. Èlenové mohou dobrovolnì uhradit pøíspìvek vyšší, pøípadnì, nad èástku stanovenou Radou ÈRK, i v nepenìní formì. Takové zvıšení svého pøíspìvku sdìlí Radì ÈRK.
- 
+ÄŒeskÃ½ radioklub reprezentuje spoleÄnÃ© zÃ¡jmy svÃ½ch ÄlenÅ¯ vÅ¯Äi orgÃ¡nÅ¯m ÄŒeskÃ© republiky a dalÅ¡Ã­ch zemÃ­ i vÅ¯Äi nevlÃ¡dnÃ­m organizacÃ­m domÃ¡cÃ­m, zahraniÄnÃ­m i mezinÃ¡rodnÃ­m. Jako Älen MezinÃ¡rodnÃ­ radioamatÃ©rskÃ© unie (IARU) zastupuje ÄŒRK spoleÄnÃ© odbornÃ© zÃ¡jmy radioamatÃ©rÅ¯ ÄŒeskÃ© republiky v zahraniÄÃ­.
+Â§ 2 - Vznik a zÃ¡nik ÄlenstvÃ­
+ÄŒlenem ÄŒRK se mÅ¯Å¾e stÃ¡t bez rozdÃ­lu stÃ¡tnÃ­ pÅ™Ã­sluÅ¡nosti a nÃ¡rodnosti kaÅ¾dÃ½, kdo bude respektovat Stanovy ÄŒRK. K ÄlenstvÃ­ se lze pÅ™ihlÃ¡sit podÃ¡nÃ­m pÃ­semnÃ© pÅ™ihlÃ¡Å¡ky pÅ™Ã­mo nebo prostÅ™ednictvÃ­m kterÃ©hokoli radioklubu ÄŒRK. Souhlas s pÅ™ihlÃ¡Å¡kou zÃ¡jemce mladÅ¡Ã­ho 15 let musÃ­ bÃ½t na pÅ™ihlÃ¡Å¡ce doloÅ¾en podpisem rodiÄe nebo zÃ¡konnÃ©ho zÃ¡stupce. PÅ™ihlÃ¡Å¡ku podanou prostÅ™ednictvÃ­m radioklubu ÄŒRK doruÄÃ­ RadÄ› ÄŒRK vÃ½bor tohoto radioklubu.
 
-Èlenu, kterı neuhradí vèas a v plné vıši èlenskı pøíspìvek ÈRK, nebudou v pøíslušném roce poskytovány èlenské sluby a do doby uhrazení pøíspìvku.
- 
 
-Èlen ÈRK má právo v èlenskıch záleitostech a ve vìcech tıkajících se ÈRK jako celku obracet se s podnìty a návrhy na orgány ÈRK. Sjezd ÈRK nemùe rozhodovat o vìcech, je jsou Stanovami ÈRK vyhrazeny rozhodnutí radioklubù ÈRK (dále RK). Èlenové a funkcionáøi orgánù ÈRK a RK mohou bıt odvoláni jen orgánem, kterı je volil nebo jmenoval.
- 
+ÄŒleny ÄŒRK registruje Rada ÄŒRK. Rada provede registraci po zaplacenÃ­ pÅ™Ã­sluÅ¡nÃ½ch poplatkÅ¯. ÄŒlenstvÃ­ vznikÃ¡ dnem registrace, o ÄemÅ¾ Rada ÄŒRK uvÄ›domÃ­ Å¾adatele zaslÃ¡nÃ­m ÄlenskÃ©ho prÅ¯kazu. Å½adatel, jehoÅ¾ registrace byla odmÃ­tnuta, mÃ¡ prÃ¡vo odvolat se ke sjezdu ÄŒRK, jehoÅ¾ rozhodnutÃ­ je koneÄnÃ©.
 
-Èlenskımi slubami se rozumí zejména zprostøedkování vımìny stanièních lístkù (QSL sluba), vydávání èasopisu ÈRK, organizace radioamatérskıch závodù a soutìí, kursù, spoleèenskıch podnikù atp. Rozsah èlenskıch slueb, které jsou pro èleny bezplatné v rámci úhrady èlenského pøíspìvku, urèí sjezd ÈRK. Rozsah mùe bıt upraven Radou ÈRK dle hospodáøské situace ÈRK. Za poskytnutí jednotlivıch èlenskıch slueb uhradí jejich uivatelé vedle èlenskıch pøíspìvkù ÈRK v pøípadì potøeby další poplatky do vıše skuteènıch nákladù na jejich poskytování.
-§ 4 - Pøidruení èlenové
-Pøidruenım èlenem ÈRK se mùe stát bez rozdílu státní pøíslušnosti a národnosti kadı, kdo chce tímto zpùsobem vyjádøit podporu cílùm a èinnosti ÈRK a bude respektovat Stanovy ÈRK.
- 
 
-Pøidruení èlenové mají v pøimìøeném rozsahu práva a povinnosti èlenù ÈRK s následujícími vıjimkami:
-hradí sníenı èlenskı pøíspìvek,
-èlenské sluby jim nejsou poskytovány bezplatnì,
-nemají právo zúèastnit se sjezdu ÈRK a volit a bıt voleni za èleny orgánù ÈRK a radioklubù ÈRK,
-mají právo zúèastnit se schùzí radioklubù ÈRK s hlasem poradním.
-§ 5 - Sloení Èeského radioklubu
-ÈRK tvoøí
-èlenové,
-radiokluby Èeského radioklubu.
- 
+ÄŒlenstvÃ­ zanikÃ¡
+vzdÃ¡nÃ­m se ÄlenstvÃ­ podÃ¡nÃ­m vlastnoruÄnÄ› podepsanÃ©ho pÃ­semnÃ©ho oznÃ¡menÃ­ RadÄ› ÄŒRK,
+neuhrazenÃ­m ÄlenskÃ½ch pÅ™Ã­spÄ›vkÅ¯ ÄŒRK za dobu delÅ¡Ã­ neÅ¾ jeden rok,
+zruÅ¡enÃ­m ÄlenstvÃ­ pro zÃ¡vaÅ¾nÃ© poruÅ¡enÃ­ Stanov ÄŒRK,
+ÃºmrtÃ­m.
 
-Pøedstavitelem právnické osoby Èeského radioklubu je Rada Èeského radioklubu. Rada má vıhradní oprávnìní jednat a zavazovat se jménem ÈRK jako celku, ve vìcech majetkoprávních však jen ve vìci majetku, kterı je ve vlastnictví ÈRK jako celku, pokud ze zákona nebo z pravomocného rozhodnutí soudu èi správního orgánu neplyne nìco jiného.
- 
 
-Èlenové ÈRK se mohou dle vlastního rozhodnutí sdruovat v radioklubech ÈRK (zkratkou RK). Rada ÈRK není vùèi radioklubùm ÈRK v postavení zøizovatele.
- 
+O zruÅ¡enÃ­ ÄlenstvÃ­ rozhoduje Rada ÄŒRK. ÄŒlenu musÃ­ bÃ½t pÃ­semnÄ› oznÃ¡meno v pÅ™edstihu nejmÃ©nÄ› dvou tÃ½dnÅ¯ projednÃ¡nÃ­ a zdÅ¯vodnÄ›nÃ­ nÃ¡vrhu. Jeho pÅ™Ã­padnÃ© nÃ¡mitky musÃ­ bÃ½t projednÃ¡ny spolu s nÃ¡vrhem. ÄŒlen mÃ¡ prÃ¡vo odvolat se proti rozhodnutÃ­ o zruÅ¡enÃ­ ÄlenstvÃ­ ke sjezdu ÄŒRK, jehoÅ¾ rozhodnutÃ­ je koneÄnÃ©.
+Â§ 3 - PrÃ¡va a povinnosti ÄlenÅ¯
+ÄŒlen ÄŒRK mÃ¡ prÃ¡vo
+za stanovenÃ½ch podmÃ­nek ÃºÄastnit se ÄinnostÃ­ poÅ™Ã¡danÃ½ch ÄŒRK a uÅ¾Ã­vat ÄlenskÃ½ch sluÅ¾eb ÄŒRK,
+pÅ™edklÃ¡dat nÃ¡vrhy orgÃ¡nÅ¯m ÄŒRK,
+volit a bÃ½t volen do orgÃ¡nÅ¯ ÄŒRK, je-li starÅ¡Ã­ 18 rokÅ¯.
 
-Radioklubùm ÈRK je právnickou osobou Èeského radioklubu delegována právní subjektivita. Radiokluby jsou oprávnìny jednat a zavazovat se jen svım jménem a jen v rozsahu zavazujícím je samotné. Úkon radioklubu ÈRK, jím by vznikl závazek Èeskému radioklubu jako celku, jeho èlenùm nebo jinému radioklubu ÈRK, je neplatnı od samého poèátku, pokud ze zákona nebo z pravomocného rozhodnutí soudu èi správního orgánu neplyne nìco jiného.
-§ 6 - Orgány Èeského radioklubu
-Orgány ÈRK jsou:
-sjezd ÈRK,
-Rada ÈRK,
-Vıkonnı vıbor ÈRK,
-Revizní komise ÈRK.
- 
 
-Èinnost orgánù ÈRK a vztahy mezi nimi urèují Stanovy ÈRK a Organizaèní øád Èeského radioklubu, je schvaluje sjezd ÈRK.
- 
+ÄŒlen ÄŒRK je povinen
+dodrÅ¾ovat stanovy ÄŒRK,
+dbÃ¡t zÃ¡sad radioamatÃ©rskÃ©ho ducha, zejmÃ©na v radioamatÃ©rskÃ©m provozu,
+respektovat usnesenÃ­ a rozhodnutÃ­ orgÃ¡nÅ¯ ÄŒRK,
+platit ÄlenskÃ© pÅ™Ã­spÄ›vky ve stanovenÃ½ch lhÅ¯tÃ¡ch.
 
-Orgány ÈRK jsou povinny pøistupovat ke všem èlenùm a radioklubùm ÈRK na principu rovnosti a nediskriminace.
- 
 
-O jednání všech orgánù ÈRK je vdy veden zápis obsahující místo a den jednání, program jednání a nejménì závìry uèinìné k jednotlivım bodùm jednání. S vıjimkou sjezdu ÈRK zápis obsahuje té jmenovitı seznam úèastníkù s jejich podpisy. S vıjimkou sjezdu ÈRK má èlen, jeho stanovisko bylo odlišné od rozhodnutí orgánu, právo na uvedení svého stanoviska v zápisu jednání se struènım zdùvodnìním.
- 
+ÄŒlenskÃ© pÅ™Ã­spÄ›vky se uhrazujÃ­ v penÄ›zÃ­ch. MinimÃ¡lnÃ­ vÃ½Å¡i ÄÃ¡stky a zpÅ¯sob Ãºhrady stanovÃ­ Rada ÄŒRK. ÄŒlenovÃ© mohou dobrovolnÄ› uhradit pÅ™Ã­spÄ›vek vyÅ¡Å¡Ã­, pÅ™Ã­padnÄ›, nad ÄÃ¡stku stanovenou Radou ÄŒRK, i v nepenÄ›Å¾nÃ­ formÄ›. TakovÃ© zvÃ½Å¡enÃ­ svÃ©ho pÅ™Ã­spÄ›vku sdÄ›lÃ­ RadÄ› ÄŒRK.
 
-Funkèní období Rady ÈRK, pøedsedy ÈRK, Revizní komise ÈRK a jejího pøedsedy, vıborù radioklubù ÈRK a jejich pøedsedù a revizorù radioklubù poèíná okamikem vyhlášení vısledkù jejich platné volby a konèí okamikem vyhlášení vısledkù další platné volby tého orgánu. Funkèní období orgánù ustavenıch na urèitou dobu konèí uplynutím této doby. S koncem funkèního období orgánu konèí funkèní období a platnost jmenování nebo zmocnìní orgánù, organizací a osob, které orgán ustavil, jmenoval nebo zmocnil, pokud zákon nebo platnì uzavøené smlouvy nestanoví jinak.
-§ 7 - Sjezd Èeského radioklubu
-Sjezd Èeského radioklubu je nejvyšším orgánem ÈRK.
- 
 
-Sjezd ÈRK je svoláván pravidelnì jedenkrát za ètyøi roky. Sjezd musí bıt svolán do dvou mìsícù, ádá-li to nejménì 1/3 èlenù ÈRK nebo Revizní komise ÈRK.
- 
+ÄŒlenu, kterÃ½ neuhradÃ­ vÄas a v plnÃ© vÃ½Å¡i ÄlenskÃ½ pÅ™Ã­spÄ›vek ÄŒRK, nebudou v pÅ™Ã­sluÅ¡nÃ©m roce poskytovÃ¡ny ÄlenskÃ© sluÅ¾by aÅ¾ do doby uhrazenÃ­ pÅ™Ã­spÄ›vku.
 
-Sjezd svolává Rada ÈRK veøejnım vyhlášením v pøedstihu nejménì dvou mìsícù mìsíce pøed konáním sjezdu. Zároveò navrhne jednací øád a program sjezdu.
- 
 
-Kadı èlen ÈRK má právo se zúèastnit sjezdu ÈRK za podmínek urèenıch Stanovami ÈRK. Sjezdu se zúèastní s hlasem rozhodujícím:
-èlenové ÈRK, kteøí se k úèasti písemnì pøihlásili nejménì 30 dnù pøed konáním sjezdu,
-delegáti radioklubù ÈRK, kteøí byli pøíslušnım radioklubem k úèasti písemnì pøihlášeni nejménì 30 dnù pøed konáním sjezdu, jestlie byli zvolení èlenskımi schùzemi radioklubù v poètu jeden delegát na kadou, i zapoèatou desítku èlenù pøíslušného radioklubu,
-èlenové Rady ÈRK, Revizní komise ÈRK a krajští manaeøi ÈRK.
-Èlenové pøihlášení dle písm. a) a b), pøípadnì oprávnìní dle písm. c), se sjezdu zúèastní vıhradnì osobnì. Zastoupení zmocnìncem je nepøípustné. 
-Delegát radioklubu ÈRK je povinen respektovat pokyny, které mu pøípadnì udìlila èlenská schùze radioklubu. 
-Kadı z úèastníkù sjezdu dle písm. a) - c) má pøi hlasování a volbách jeden hlas.
- 
+ÄŒlen ÄŒRK mÃ¡ prÃ¡vo v ÄlenskÃ½ch zÃ¡leÅ¾itostech a ve vÄ›cech tÃ½kajÃ­cÃ­ch se ÄŒRK jako celku obracet se s podnÄ›ty a nÃ¡vrhy na orgÃ¡ny ÄŒRK. Sjezd ÄŒRK nemÅ¯Å¾e rozhodovat o vÄ›cech, jeÅ¾ jsou Stanovami ÄŒRK vyhrazeny rozhodnutÃ­ radioklubÅ¯ ÄŒRK (dÃ¡le RK). ÄŒlenovÃ© a funkcionÃ¡Å™i orgÃ¡nÅ¯ ÄŒRK a RK mohou bÃ½t odvolÃ¡ni jen orgÃ¡nem, kterÃ½ je volil nebo jmenoval.
 
-Sjezd ÈRK
-pøijímá Stanovy ÈRK a Organizaèní øád ÈRK,
-volí pøedsedu ÈRK, ètrnáct èlenù Rady ÈRK a tøi èleny Revizní komise ÈRK,
-projednává a schvaluje hospodaøení ÈRK,
-øeší zásadní otázky èinnosti ÈRK,
-s koneènou platností rozhoduje o podnìtech podanıch èleny ÈRK v èlenskıch a jinıch záleitostech.
- 
 
-Volba pøedsedy ÈRK a èlenù Rady ÈRK je tajná. Návrhy na kandidáty je oprávnìn pøedkládat kterıkoli úèastník sjezdu s právem hlasovat vèetnì kandidatury vlastní. Navrenı musí se svou kandidaturou vyslovit souhlas. Do rady jsou zvoleni kandidáti v poøadí podle poètu obdrenıch hlasù a do naplnìní celkového poètu. Do funkce pøedsedy je zvolen kandidát ze samostatné kandidátky, kterı obdrí nejvìtší poèet hlasù, nejménì však polovinu hlasù prezentovanıch na sjezdu.
- 
+ÄŒlenskÃ½mi sluÅ¾bami se rozumÃ­ zejmÃ©na zprostÅ™edkovÃ¡nÃ­ vÃ½mÄ›ny staniÄnÃ­ch lÃ­stkÅ¯ (QSL sluÅ¾ba), vydÃ¡vÃ¡nÃ­ Äasopisu ÄŒRK, organizace radioamatÃ©rskÃ½ch zÃ¡vodÅ¯ a soutÄ›Å¾Ã­, kursÅ¯, spoleÄenskÃ½ch podnikÅ¯ atp. Rozsah ÄlenskÃ½ch sluÅ¾eb, kterÃ© jsou pro Äleny bezplatnÃ© v rÃ¡mci Ãºhrady ÄlenskÃ©ho pÅ™Ã­spÄ›vku, urÄÃ­ sjezd ÄŒRK. Rozsah mÅ¯Å¾e bÃ½t upraven Radou ÄŒRK dle hospodÃ¡Å™skÃ© situace ÄŒRK. Za poskytnutÃ­ jednotlivÃ½ch ÄlenskÃ½ch sluÅ¾eb uhradÃ­ jejich uÅ¾ivatelÃ© vedle ÄlenskÃ½ch pÅ™Ã­spÄ›vkÅ¯ ÄŒRK v pÅ™Ã­padÄ› potÅ™eby dalÅ¡Ã­ poplatky do vÃ½Å¡e skuteÄnÃ½ch nÃ¡kladÅ¯ na jejich poskytovÃ¡nÃ­.
+Â§ 4 - PÅ™idruÅ¾enÃ­ ÄlenovÃ©
+PÅ™idruÅ¾enÃ½m Älenem ÄŒRK se mÅ¯Å¾e stÃ¡t bez rozdÃ­lu stÃ¡tnÃ­ pÅ™Ã­sluÅ¡nosti a nÃ¡rodnosti kaÅ¾dÃ½, kdo chce tÃ­mto zpÅ¯sobem vyjÃ¡dÅ™it podporu cÃ­lÅ¯m a Äinnosti ÄŒRK a bude respektovat Stanovy ÄŒRK.
 
-Sjezd ÈRK má právo zrušit nebo zmìnit kterékoli rozhodnutí a jiné úkony Rady ÈRK, jejích orgánù nebo pracovníkù, které bylo uèinìno v období od posledního sjezdu ÈRK. ÈRK tím nemùe zbavit závazkù, je Rada ÈRK pøijala v souladu s tìmito stanovami.
-§ 8 - Rada Èeského radioklubu
-Rada ÈRK je vıkonnım orgánem ÈRK. Uskuteèòuje rozhodnutí sjezdù ÈRK a pøijímá rozhodnutí v záleitostech, je nejsou vyhrazeny sjezdu nebo jinım orgánùm a slokám ÈRK. Radu tvoøí pøedseda ÈRK a ètrnáct èlenù rady.
- 
 
-Rada ÈRK
-sestavuje rozpoèet a roèní závìreènı úèet ÈRK,
-reprezentuje ÈRK vùèi orgánùm státu a dalším subjektùm,
-øídí a koordinuje systém èlenskıch slueb ÈRK,
-øídí a koordinuje technické, sportovní, organizaèní a ekonomické záleitosti spoleèné ÈRK jako celku a stanoví vıši èlenskıch pøíspìvkù ÈRK,
-volí ze svého støedu jednoho nebo více místopøedsedù ÈRK, jmenuje tajemníka ÈRK, Vıkonnı vıbor ÈRK, manaery a další honorované a dobrovolné pracovníky Rady ÈRK,
-zøizuje odborné pracovní skupiny, jmenuje jejich vedoucí a èleny,
-koordinuje radioamatérské èinnosti a práci odbornıch pracovních skupin,
-dle potøeby zøizuje a øídí další orgány Rady ÈRK,
-schvaluje vnitroorganizaèní pøedpisy a smìrnice ÈRK v souladu se zákonem nebo na základì rozhodnutí sjezdu ÈRK.
- 
+PÅ™idruÅ¾enÃ­ ÄlenovÃ© majÃ­ v pÅ™imÄ›Å™enÃ©m rozsahu prÃ¡va a povinnosti ÄlenÅ¯ ÄŒRK s nÃ¡sledujÃ­cÃ­mi vÃ½jimkami:
+hradÃ­ snÃ­Å¾enÃ½ ÄlenskÃ½ pÅ™Ã­spÄ›vek,
+ÄlenskÃ© sluÅ¾by jim nejsou poskytovÃ¡ny bezplatnÄ›,
+nemajÃ­ prÃ¡vo zÃºÄastnit se sjezdu ÄŒRK a volit a bÃ½t voleni za Äleny orgÃ¡nÅ¯ ÄŒRK a radioklubÅ¯ ÄŒRK,
+majÃ­ prÃ¡vo zÃºÄastnit se schÅ¯zÃ­ radioklubÅ¯ ÄŒRK s hlasem poradnÃ­m.
+Â§ 5 - SloÅ¾enÃ­ ÄŒeskÃ©ho radioklubu
+ÄŒRK tvoÅ™Ã­
+ÄlenovÃ©,
+radiokluby ÄŒeskÃ©ho radioklubu.
 
-Rada se schází nejménì dvakrát roènì, dle potøeby èastìji. Zasedání rady svolává tajemník ÈRK na pokyn pøedsedy ÈRK nebo na ádost alespoò jedné tøetiny èlenù rady.
- 
 
-Zasedání rady se zúèastòuje té tajemník ÈRK a dle vlastního uváení i èlenové revizní komise, všichni s hlasem poradním.
- 
+PÅ™edstavitelem prÃ¡vnickÃ© osoby ÄŒeskÃ©ho radioklubu je Rada ÄŒeskÃ©ho radioklubu. Rada mÃ¡ vÃ½hradnÃ­ oprÃ¡vnÄ›nÃ­ jednat a zavazovat se jmÃ©nem ÄŒRK jako celku, ve vÄ›cech majetkoprÃ¡vnÃ­ch vÅ¡ak jen ve vÄ›ci majetku, kterÃ½ je ve vlastnictvÃ­ ÄŒRK jako celku, pokud ze zÃ¡kona nebo z pravomocnÃ©ho rozhodnutÃ­ soudu Äi sprÃ¡vnÃ­ho orgÃ¡nu neplyne nÄ›co jinÃ©ho.
 
-Rada je usnášeníschopná, je-li jednání pøítomna nejménì polovina jejích èlenù. Návrh je pøijat, hlasuje-li pro nìj nadpolovièní vìtšina pøítomnıch èlenù. Pøi rovnosti poètu hlasù rozhoduje hlas pøedsedy (pøi jeho nepøítomnosti místopøedsedy øídícího jednání).
- 
 
-Jednání Rady ÈRK mají právo zúèastnit se s hlasem poradním:
-èlen Revizní komise ÈRK,
-tajemník ÈRK,
-zástupci odbornıch pracovních skupin rady, jestlie projednávané otázky souvisí s pøedmìtem jejich práce.
- 
+ÄŒlenovÃ© ÄŒRK se mohou dle vlastnÃ­ho rozhodnutÃ­ sdruÅ¾ovat v radioklubech ÄŒRK (zkratkou RK). Rada ÄŒRK nenÃ­ vÅ¯Äi radioklubÅ¯m ÄŒRK v postavenÃ­ zÅ™izovatele.
 
-Sníí-li se bìhem volebního období poèet èlenù rady, doplní se rada vlastním rozhodnutím koopcí. Jestlie by poèet kooptovanıch èlenù pøevıšil jednu polovinu poètu èlenù rady, bude svolán sjezd ÈRK.
- 
 
-V èele rady stojí pøedseda ÈRK. Pøedseda ÈRK
-je nejvyšším pøedstavitelem ÈRK,
-øídí práci Rady ÈRK a Vıkonného vıboru ÈRK a odpovídá za ni sjezdu ÈRK,
-spolu s místopøedsedy ÈRK a tajemníkem ÈRK je statutárním pøedstavitelem ÈRK.
- 
+RadioklubÅ¯m ÄŒRK je prÃ¡vnickou osobou ÄŒeskÃ©ho radioklubu delegovÃ¡na prÃ¡vnÃ­ subjektivita. Radiokluby jsou oprÃ¡vnÄ›ny jednat a zavazovat se jen svÃ½m jmÃ©nem a jen v rozsahu zavazujÃ­cÃ­m je samotnÃ©. Ãškon radioklubu ÄŒRK, jÃ­mÅ¾ by vznikl zÃ¡vazek ÄŒeskÃ©mu radioklubu jako celku, jeho ÄlenÅ¯m nebo jinÃ©mu radioklubu ÄŒRK, je neplatnÃ½ od samÃ©ho poÄÃ¡tku, pokud ze zÃ¡kona nebo z pravomocnÃ©ho rozhodnutÃ­ soudu Äi sprÃ¡vnÃ­ho orgÃ¡nu neplyne nÄ›co jinÃ©ho.
+Â§ 6 - OrgÃ¡ny ÄŒeskÃ©ho radioklubu
+OrgÃ¡ny ÄŒRK jsou:
+sjezd ÄŒRK,
+Rada ÄŒRK,
+VÃ½konnÃ½ vÃ½bor ÄŒRK,
+ReviznÃ­ komise ÄŒRK.
 
-Místopøedseda, kterého urèí pøedseda ÈRK (pøi nepøítomnosti pøedsedy Rada ÈRK) zastupuje pøedsedu ÈRK v jeho nepøítomnosti. Nemùe-li pøedseda ÈRK vykonávat svoji funkci, mùe bıt rozhodnutím Rady ÈRK povìøen vıkonem jeho funkce jeden z místopøedsedù.
- 
 
-Rada jmenuje tajemníka ÈRK. Tajemník ÈRK
-øídí práci dobrovolnıch i honorovanıch pracovníkù Rady ÈRK a odpovídá za ni,
-odpovídá za spisovou agendu, úèetní evidenci rady a za vnitroorganizaèní styk,
-Pøímım nadøízenım tajemníka ÈRK je pøedseda ÈRK nebo jeho zástupce.
- 
+ÄŒinnost orgÃ¡nÅ¯ ÄŒRK a vztahy mezi nimi urÄujÃ­ Stanovy ÄŒRK a OrganizaÄnÃ­ Å™Ã¡d ÄŒeskÃ©ho radioklubu, jeÅ¾ schvaluje sjezd ÄŒRK.
 
-Radu zastupují a jejím jménem podepisují vdy spoleènì dva statutární pøedstavitelé ÈRK dle stanov, není-li dále uvedeno jinak. Jde-li o styk se stáními orgány ÈR, styk mezinárodní nebo o pracovnì právní vztahy, musí bıt jedním z tìchto pøedstavitelù pøedseda ÈRK (v jeho nepøítomnosti jeden z místopøedsedù ÈRK). V jednotlivıch jmenovitıch pøípadech mùe rada ÈRK zmocnit další zástupce.
- 
 
-Vıdaje a jiné závazky Rady ÈRK schvaluje Rada ÈRK kadoroènì rozpoètem ÈRK. Rada schvaluje té zmìny rozpoètu a jakékoli vıdaje a jiné závazky mimo rozpoèet, vdy pøed jejich uskuteènìním.
- 
+OrgÃ¡ny ÄŒRK jsou povinny pÅ™istupovat ke vÅ¡em ÄlenÅ¯m a radioklubÅ¯m ÄŒRK na principu rovnosti a nediskriminace.
 
-Rada ÈRK a Vıkonnı vıbor ÈRK mohou jednat a pøijímat usnesení té s vyuitím technickıch prostøedkù. Podrobnosti upraví Rada ÈRK vnitøním pøedpisem.
-§ 9 - Vıkonnı vıbor ÈRK
-Vıkonnı vıbor uskuteèòuje rozhodnutí Rady ÈRK a vede bìnou agendu ÈRK.
- 
 
-Vıkonnı vıbor ÈRK jmenuje Rada ÈRK. Za èleny jmenuje pøedsedu ÈRK a nejménì ètyøi další èleny rady. Rada stanoví náplò èinnosti, kompetence a odpovìdnost vıkonného vıboru a jeho jednotlivıch èlenù.
- 
+O jednÃ¡nÃ­ vÅ¡ech orgÃ¡nÅ¯ ÄŒRK je vÅ¾dy veden zÃ¡pis obsahujÃ­cÃ­ mÃ­sto a den jednÃ¡nÃ­, program jednÃ¡nÃ­ a nejmÃ©nÄ› zÃ¡vÄ›ry uÄinÄ›nÃ© k jednotlivÃ½m bodÅ¯m jednÃ¡nÃ­. S vÃ½jimkou sjezdu ÄŒRK zÃ¡pis obsahuje tÃ©Å¾ jmenovitÃ½ seznam ÃºÄastnÃ­kÅ¯ s jejich podpisy. S vÃ½jimkou sjezdu ÄŒRK mÃ¡ Älen, jehoÅ¾ stanovisko bylo odliÅ¡nÃ© od rozhodnutÃ­ orgÃ¡nu, prÃ¡vo na uvedenÃ­ svÃ©ho stanoviska v zÃ¡pisu jednÃ¡nÃ­ se struÄnÃ½m zdÅ¯vodnÄ›nÃ­m.
 
-Vıkonnı vıbor zasedá zpravidla jedenkrát mìsíènì. Zasedání svolává tajemník ÈRK na pokyn pøedsedy ÈRK nebo na ádost alespoò jedné tøetiny èlenù rady. Svolání se oznamuje všem èlenùm rady a Revizní komise ÈRK. Hlasování pøi zasedání vıboru se mohou zúèastnit všichni èlenové rady, a jeho jednání s hlasem poradním tajemník ÈRK, èlenové Revizní komise ÈRK a vedoucí odbornıch pracovních skupin rady.
- 
 
-Návrh je pøijat, hlasuje-li pro nìj nadpolovièní vìtšina pøítomnıch èlenù Rady ÈRK. Pøi rovnosti poètu hlasù rozhoduje hlas pøedsedy ÈRK nebo místopøedsedy øídícího jednání.
-§ 10 - Odborné pracovní skupiny Rady ÈRK
-Odborné pracovní skupiny zøizuje Rada ÈRK jako své poradní orgány. Jejich èleny jmenuje Rada ÈRK a mohou jimi bıt i neèlenové ÈRK.
- 
+FunkÄnÃ­ obdobÃ­ Rady ÄŒRK, pÅ™edsedy ÄŒRK, ReviznÃ­ komise ÄŒRK a jejÃ­ho pÅ™edsedy, vÃ½borÅ¯ radioklubÅ¯ ÄŒRK a jejich pÅ™edsedÅ¯ a revizorÅ¯ radioklubÅ¯ poÄÃ­nÃ¡ okamÅ¾ikem vyhlÃ¡Å¡enÃ­ vÃ½sledkÅ¯ jejich platnÃ© volby a konÄÃ­ okamÅ¾ikem vyhlÃ¡Å¡enÃ­ vÃ½sledkÅ¯ dalÅ¡Ã­ platnÃ© volby tÃ©hoÅ¾ orgÃ¡nu. FunkÄnÃ­ obdobÃ­ orgÃ¡nÅ¯ ustavenÃ½ch na urÄitou dobu konÄÃ­ uplynutÃ­m tÃ©to doby. S koncem funkÄnÃ­ho obdobÃ­ orgÃ¡nu konÄÃ­ funkÄnÃ­ obdobÃ­ a platnost jmenovÃ¡nÃ­ nebo zmocnÄ›nÃ­ orgÃ¡nÅ¯, organizacÃ­ a osob, kterÃ© orgÃ¡n ustavil, jmenoval nebo zmocnil, pokud zÃ¡kon nebo platnÄ› uzavÅ™enÃ© smlouvy nestanovÃ­ jinak.
+Â§ 7 - Sjezd ÄŒeskÃ©ho radioklubu
+Sjezd ÄŒeskÃ©ho radioklubu je nejvyÅ¡Å¡Ã­m orgÃ¡nem ÄŒRK.
 
-Skupinu vede a za její èinnost odpovídá vedoucí pracovní skupiny jmenovanı Radou ÈRK.
- 
 
-Skupina se schází dle potøeby, dle rozhodnutí vedoucího nebo na pokyn Rady ÈRK nebo Vıkonného vıboru ÈRK.
- 
+Sjezd ÄŒRK je svolÃ¡vÃ¡n pravidelnÄ› jedenkrÃ¡t za ÄtyÅ™i roky. Sjezd musÃ­ bÃ½t svolÃ¡n do dvou mÄ›sÃ­cÅ¯, Å¾Ã¡dÃ¡-li to nejmÃ©nÄ› 1/3 ÄlenÅ¯ ÄŒRK nebo ReviznÃ­ komise ÄŒRK.
 
-Rada ÈRK nebo z jejího povìøení Vıkonnı vıbor ÈRK mohou pracovní skupinu zmocnit k jednání s mezinárodními organizacemi nebo státními orgány ÈR v odbornıch záleitostech, je jsou pøedmìtem její èinnosti. Vedoucí skupiny je v takovém pøípadì povinen jednání prùbìnì konsultovat s pøedsedou ÈRK a øídit se jeho pokyny. Závìry a písemná dokumentace jednání budou bez prodlení pøedloeny povìøujícímu orgánu ÈRK.
-§ 11 - Revizní komise Èeského radioklubu
-Revizní komise ÈRK je nezávislım orgánem kontrolujícím hospodaøení Rady ÈRK.
- 
 
-Komise je volena sjezdem ÈRK a je mu odpovìdna za svoji èinnost. Zpùsob volby Revizní komise ÈRK je shodnı se zpùsobem volby Rady ÈRK. Komisi tvoøí pøedseda a dva èlenové. Pøedsedu revizní komise volí komise ze svého støedu. Èlenství v revizní komisi je nesluèitelné s èlenstvím v Radì ÈRK. Poèet èlenù komise mùe bıt doplnìn koopcí o nejvıše jednoho èlena. Koopci provádí Rada ÈRK.
- 
+Sjezd svolÃ¡vÃ¡ Rada ÄŒRK veÅ™ejnÃ½m vyhlÃ¡Å¡enÃ­m v pÅ™edstihu nejmÃ©nÄ› dvou mÄ›sÃ­cÅ¯ mÄ›sÃ­ce pÅ™ed konÃ¡nÃ­m sjezdu. ZÃ¡roveÅˆ navrhne jednacÃ­ Å™Ã¡d a program sjezdu.
 
-Revizní komise ÈRK
-schází se nejménì dvakrát roènì ke kontrole hospodaøení Rady ÈRK,
-informuje Radu ÈRK o vısledcích revizní èinnosti,
-podává písemnou revizní zprávu sjezdu ÈRK za volební období.
- 
 
-Revizní komise je usnášeníschopná, jsou-li pøítomni alespoò dva èlenové. Pøi rovnosti hlasù rozhoduje hlas pøedsedy komise.
- 
+KaÅ¾dÃ½ Älen ÄŒRK mÃ¡ prÃ¡vo se zÃºÄastnit sjezdu ÄŒRK za podmÃ­nek urÄenÃ½ch Stanovami ÄŒRK. Sjezdu se zÃºÄastnÃ­ s hlasem rozhodujÃ­cÃ­m:
+ÄlenovÃ© ÄŒRK, kteÅ™Ã­ se k ÃºÄasti pÃ­semnÄ› pÅ™ihlÃ¡sili nejmÃ©nÄ› 30 dnÅ¯ pÅ™ed konÃ¡nÃ­m sjezdu,
+delegÃ¡ti radioklubÅ¯ ÄŒRK, kteÅ™Ã­ byli pÅ™Ã­sluÅ¡nÃ½m radioklubem k ÃºÄasti pÃ­semnÄ› pÅ™ihlÃ¡Å¡eni nejmÃ©nÄ› 30 dnÅ¯ pÅ™ed konÃ¡nÃ­m sjezdu, jestliÅ¾e byli zvolenÃ­ ÄlenskÃ½mi schÅ¯zemi radioklubÅ¯ v poÄtu jeden delegÃ¡t na kaÅ¾dou, i zapoÄatou desÃ­tku ÄlenÅ¯ pÅ™Ã­sluÅ¡nÃ©ho radioklubu,
+ÄlenovÃ© Rady ÄŒRK, ReviznÃ­ komise ÄŒRK a krajÅ¡tÃ­ manaÅ¾eÅ™i ÄŒRK.
+ÄŒlenovÃ© pÅ™ihlÃ¡Å¡enÃ­ dle pÃ­sm. a) a b), pÅ™Ã­padnÄ› oprÃ¡vnÄ›nÃ­ dle pÃ­sm. c), se sjezdu zÃºÄastnÃ­ vÃ½hradnÄ› osobnÄ›. ZastoupenÃ­ zmocnÄ›ncem je nepÅ™Ã­pustnÃ©.
+DelegÃ¡t radioklubu ÄŒRK je povinen respektovat pokyny, kterÃ© mu pÅ™Ã­padnÄ› udÄ›lila ÄlenskÃ¡ schÅ¯ze radioklubu.
+KaÅ¾dÃ½ z ÃºÄastnÃ­kÅ¯ sjezdu dle pÃ­sm. a) - c) mÃ¡ pÅ™i hlasovÃ¡nÃ­ a volbÃ¡ch jeden hlas.
 
-Závìry provedenıch revizí musí bıt zpracovány písemnì a pøedloeny všem èlenùm Rady ÈRK.
-§ 12 - Radiokluby Èeského radioklubu
-Radioklub ÈRK musí tvoøit nejménì tøi zletilí èlenové ÈRK. Zásady nabytí a pozbytí èlenství v RK stanoví èlenská schùze RK; rozhodnutí èlenské schùze o èlenství v RK je koneèné. Nabytím nebo pozbytím èlenství v radioklubu ÈRK není ovlivnìno èlenství èlena v ÈRK.
- 
 
-Radiokluby ÈRK registruje a eviduje Rada ÈRK. Radioklub vzniká dnem registrace Radou ÈRK. Rada zaregistruje radioklub ÈRK, jestlie o registraci poádají spoleènì nejménì tøi zakládající èlenové radioklubu. Registrací nabıvá radioklub ÈRK právní subjektivity delegované Èeskım radioklubem.
- 
+Sjezd ÄŒRK
+pÅ™ijÃ­mÃ¡ Stanovy ÄŒRK a OrganizaÄnÃ­ Å™Ã¡d ÄŒRK,
+volÃ­ pÅ™edsedu ÄŒRK, ÄtrnÃ¡ct ÄlenÅ¯ Rady ÄŒRK a tÅ™i Äleny ReviznÃ­ komise ÄŒRK,
+projednÃ¡vÃ¡ a schvaluje hospodaÅ™enÃ­ ÄŒRK,
+Å™eÅ¡Ã­ zÃ¡sadnÃ­ otÃ¡zky Äinnosti ÄŒRK,
+s koneÄnou platnostÃ­ rozhoduje o podnÄ›tech podanÃ½ch Äleny ÄŒRK v ÄlenskÃ½ch a jinÃ½ch zÃ¡leÅ¾itostech.
 
-Nejvyšším orgánem RK je èlenská schùze. Èlenské schùze mají právo zúèastnit se všichni èlenové RK. Èlenskou schùzi svolává vıbor RK nejménì jedenkrát roènì. Vıbor je povinen oznámit konání schùze stejnım zpùsobem všem èlenùm RK. Èlenská schùze musí bıt svolána, poádá-li o to nejménì 1/3 èlenù RK nebo revizor RK.
- 
 
-Èlenská schùze radioklubu øeší otázky práce RK, je jí pøísluší dle tìchto stanov nebo které si svım rozhodnutím vyhradí. Nejménì jedenkrát za dva roky volí pøedsedu RK a èleny vıboru RK. V RK, které obhospodaøují finanèní prostøedky nebo jakıkoli jinı majetek, je volen té revizor RK.
- 
+Volba pÅ™edsedy ÄŒRK a ÄlenÅ¯ Rady ÄŒRK je tajnÃ¡. NÃ¡vrhy na kandidÃ¡ty je oprÃ¡vnÄ›n pÅ™edklÃ¡dat kterÃ½koli ÃºÄastnÃ­k sjezdu s prÃ¡vem hlasovat vÄetnÄ› kandidatury vlastnÃ­. NavrÅ¾enÃ½ musÃ­ se svou kandidaturou vyslovit souhlas. Do rady jsou zvoleni kandidÃ¡ti v poÅ™adÃ­ podle poÄtu obdrÅ¾enÃ½ch hlasÅ¯ aÅ¾ do naplnÄ›nÃ­ celkovÃ©ho poÄtu. Do funkce pÅ™edsedy je zvolen kandidÃ¡t ze samostatnÃ© kandidÃ¡tky, kterÃ½ obdrÅ¾Ã­ nejvÄ›tÅ¡Ã­ poÄet hlasÅ¯, nejmÃ©nÄ› vÅ¡ak polovinu hlasÅ¯ prezentovanÃ½ch na sjezdu.
 
-Èlenská schùze je usnášeníschopná, je-li pøítomna alespoò polovina èlenù RK. Rozhoduje prostá vìtšina hlasù pøítomnıch èlenù RK. Pøi volbách se uplatní ustanovení § 3 odst.1) písm. c) tìchto stanov.
- 
 
-Èlenská schùze volí vıbor RK, kterı je vıkonnım orgánem RK; schùze stanoví poèet èlenù vıboru. Vıbor rozhoduje o záleitostech RK, je nejsou vyhrazeny èlenské schùzi. V èele vıboru stojí pøedseda RK, kterı je za jeho práci odpovìdnı èlenské schùzi.
- 
+Sjezd ÄŒRK mÃ¡ prÃ¡vo zruÅ¡it nebo zmÄ›nit kterÃ©koli rozhodnutÃ­ a jinÃ© Ãºkony Rady ÄŒRK, jejÃ­ch orgÃ¡nÅ¯ nebo pracovnÃ­kÅ¯, kterÃ© bylo uÄinÄ›no v obdobÃ­ od poslednÃ­ho sjezdu ÄŒRK. ÄŒRK tÃ­m nemÅ¯Å¾e zbavit zÃ¡vazkÅ¯, jeÅ¾ Rada ÄŒRK pÅ™ijala v souladu s tÄ›mito stanovami.
+Â§ 8 - Rada ÄŒeskÃ©ho radioklubu
+Rada ÄŒRK je vÃ½konnÃ½m orgÃ¡nem ÄŒRK. UskuteÄÅˆuje rozhodnutÃ­ sjezdÅ¯ ÄŒRK a pÅ™ijÃ­mÃ¡ rozhodnutÃ­ v zÃ¡leÅ¾itostech, jeÅ¾ nejsou vyhrazeny sjezdu nebo jinÃ½m orgÃ¡nÅ¯m a sloÅ¾kÃ¡m ÄŒRK. Radu tvoÅ™Ã­ pÅ™edseda ÄŒRK a ÄtrnÃ¡ct ÄlenÅ¯ rady.
 
-Revizor RK je nezávislım kontrolním orgánem, kterı kontroluje hospodaøení RK. Je odpovìdnı èlenské schùzi, má právo zúèastnit se jednání vıboru RK s hlasem poradním.
- 
 
-Radiokluby jsou oprávnìny rozhodnutím èlenské schùze stanovit vlastní èlenské pøíspìvky, pøípadnì poskytovat vlastní èlenské sluby. V takovém pøípadì se uplatní ustanovení § 3 odst.3) a 6) tìchto stanov.
- 
+Rada ÄŒRK
+sestavuje rozpoÄet a roÄnÃ­ zÃ¡vÄ›reÄnÃ½ ÃºÄet ÄŒRK,
+reprezentuje ÄŒRK vÅ¯Äi orgÃ¡nÅ¯m stÃ¡tu a dalÅ¡Ã­m subjektÅ¯m,
+Å™Ã­dÃ­ a koordinuje systÃ©m ÄlenskÃ½ch sluÅ¾eb ÄŒRK,
+Å™Ã­dÃ­ a koordinuje technickÃ©, sportovnÃ­, organizaÄnÃ­ a ekonomickÃ© zÃ¡leÅ¾itosti spoleÄnÃ© ÄŒRK jako celku a stanovÃ­ vÃ½Å¡i ÄlenskÃ½ch pÅ™Ã­spÄ›vkÅ¯ ÄŒRK,
+volÃ­ ze svÃ©ho stÅ™edu jednoho nebo vÃ­ce mÃ­stopÅ™edsedÅ¯ ÄŒRK, jmenuje tajemnÃ­ka ÄŒRK, VÃ½konnÃ½ vÃ½bor ÄŒRK, manaÅ¾ery a dalÅ¡Ã­ honorovanÃ© a dobrovolnÃ© pracovnÃ­ky Rady ÄŒRK,
+zÅ™izuje odbornÃ© pracovnÃ­ skupiny, jmenuje jejich vedoucÃ­ a Äleny,
+koordinuje radioamatÃ©rskÃ© Äinnosti a prÃ¡ci odbornÃ½ch pracovnÃ­ch skupin,
+dle potÅ™eby zÅ™izuje a Å™Ã­dÃ­ dalÅ¡Ã­ orgÃ¡ny Rady ÄŒRK,
+schvaluje vnitroorganizaÄnÃ­ pÅ™edpisy a smÄ›rnice ÄŒRK v souladu se zÃ¡konem nebo na zÃ¡kladÄ› rozhodnutÃ­ sjezdu ÄŒRK.
 
-Radioklub ÈRK zaniká rozhodnutím èlenské schùze nebo zrušením registrace radou ÈRK, klesne-li poèet èlenù pod mez urèenou odst. 1). Rozhodnutím rady o zrušení registrace radioklubu pozbıvá radioklub právní subjektivity delegované ÈRK, o èem budou radì známí pøedstavitelé radioklubu, pøípadnì i jiné dotèené osoby èi orgány, bez prodlení písemnì vyrozumìni.
-§ 13 - Souèinnost
-Èeskı radioklub spolupracuje na základì smluv a dohod s dalšími radioamatérskımi sdrueními v Èeské republice a dalšími subjekty sídlícími v ÈR i v zahranièí. Smlouvami nesmí bıt
-porušena svrchovanost a nezávislost právnické osoby ÈRK,
-poškozeni nebo znevıhodnìni èlenové ÈRK,
-ovlivnìna nepolitiènost ÈRK,
-pøijaty závazky nesluèitelné s posláním ÈRK podle stanov nebo dle zákona.
- 
 
-O èlenství jinıch subjektù v ÈRK jako celku a o èlenství ÈRK jako celku v jinıch sdrueních obèanù rozhoduje sjezd ÈRK, neurèují-li stanovy ÈRK nìco jiného.
-§ 14 - Hospodaøení Èeského radioklubu
-Kadı z radioklubù ÈRK hospodaøí samostatnì k vlastní odpovìdnosti a jeho majetek je jeho vlastnictvím, pokud ze zpùsobu nabytí neplyne nìco jiného. Èeskı radioklub jako celek ani èlenové ÈRK neodpovídají za závazky vzniklé jednotlivım radioklubùm ÈRK, pokud rozhodnutí sjezdu ÈRK nebo Rady ÈRK nestanoví v jednotlivıch pøípadech jinak.
- 
+Rada se schÃ¡zÃ­ nejmÃ©nÄ› dvakrÃ¡t roÄnÄ›, dle potÅ™eby ÄastÄ›ji. ZasedÃ¡nÃ­ rady svolÃ¡vÃ¡ tajemnÃ­k ÄŒRK na pokyn pÅ™edsedy ÄŒRK nebo na Å¾Ã¡dost alespoÅˆ jednÃ© tÅ™etiny ÄlenÅ¯ rady.
 
-Èeskı radioklub jako celek a jednotlivé radiokluby ÈRK
-nabıvají, obhospodaøují a zcizují majetek všemi zpùsoby, které pøipouští právní øád Èeské republiky,
-v mezích zákona mohou zøizovat podnikatelské subjekty nebo bıt jejich spoleèníky, spoluvlastníky, podílníky nebo akcionáøi.
- 
 
-Radiokluby ÈRK mají právo vystoupit z ÈRK i s majetkem, kterı je jejich vlastnictvím, èím nejsou dotèeny jejich ostatní závazky vùèi ÈRK a dalším osobám.
- 
+ZasedÃ¡nÃ­ rady se zÃºÄastÅˆuje tÃ©Å¾ tajemnÃ­k ÄŒRK a dle vlastnÃ­ho uvÃ¡Å¾enÃ­ i ÄlenovÃ© reviznÃ­ komise, vÅ¡ichni s hlasem poradnÃ­m.
 
-Kadı èlen kteréhokoli orgánu ÈRK pøi hlasování orgánu o vıdajích, zakázkách, zástavách, zárukách a závazcích, nebo o pøevodech, nájmech, pùjèkách nebo vıpùjèkách majetku, kterı orgán spravuje, je povinen pøed hlasováním orgánu oznámit pøípadnou skuteènost, e je v jakémkoli vztahu k subjektu, v jeho prospìch nebo k jeho tíi hlasování smìøuje. Takovı èlen je povinen zdret se pøíslušného hlasování. V pochybnostech rozhodne o jeho právu hlasovat orgán hlasováním, z nìj je takovı èlen vylouèen, a pøi nìm rovnost hlasù znamená zamítnutí práva hlasovat. O splnìní oznamovací povinnosti a o zdrení se hlasování bude proveden záznam v zápisu jednání. Pøi porušení uvedené oznamovací povinnosti je orgán oprávnìn zrušit usnesení dosaené pøíslušnım hlasováním od samého poèátku. Je-li do vısledkù hlasování zapoèten jinak, ne jako zdrení se hlasování, hlas osoby, která byla povinna se hlasování zdret, je hlasování neplatné od samého poèátku.
-§ 15 - Zánik Èeského radioklubu
-Èeskı radioklub zaniká:
-usnesením sjezdu ÈRK,
-v souladu se zákonem Èeské republiky.
- 
 
-Zanikne-li ÈRK dle odst. 1) písm. a), uèiní sjezd rozhodnutí o majetku, které vykoná Rada ÈRK a vıbory RK jako likvidaèní orgány a do vyrovnání všech majetkovıch práv a povinností a ostatních úkonù.
- 
+Rada je usnÃ¡Å¡enÃ­schopnÃ¡, je-li jednÃ¡nÃ­ pÅ™Ã­tomna nejmÃ©nÄ› polovina jejÃ­ch ÄlenÅ¯. NÃ¡vrh je pÅ™ijat, hlasuje-li pro nÄ›j nadpoloviÄnÃ­ vÄ›tÅ¡ina pÅ™Ã­tomnÃ½ch ÄlenÅ¯. PÅ™i rovnosti poÄtu hlasÅ¯ rozhoduje hlas pÅ™edsedy (pÅ™i jeho nepÅ™Ã­tomnosti mÃ­stopÅ™edsedy Å™Ã­dÃ­cÃ­ho jednÃ¡nÃ­).
 
-Zanikne-li ÈRK dle odst.1) písm. b), budou jeho závazky vypoøádány za kadého nositele právní subjektivity samostatnì do vıše hodnoty majetku náleícího tomuto subjektu. Zbylı majetek ÈRK náleí rovnım dílem všem èlenùm registrovanım Radou ÈRK ke dnu zániku.
- 
 
-Zanikne-li ÈRK zpùsobem neuvedenım v odst. 1), náleí jeho majetek rovnım dílem všem èlenùm registrovanım Radou ÈRK ke dnu zániku.
-§ 16 - Závìreèná ustanovení
-Èlenství èlenù a radioklubù vzniklé dle pøedchozích stanov ÈRK zùstává beze zmìny v platnosti. Rozhodnutí pøedchozích sjezdù ÈRK a rozhodnutí v minulosti pøijatá Radou ÈRK zùstávají v platnosti. Dnem pøijetí tìchto stanov se znìní tìchto rozhodnutí samoèinnì upravuje v souladu s tìmito stanovami.
- 
+JednÃ¡nÃ­ Rady ÄŒRK majÃ­ prÃ¡vo zÃºÄastnit se s hlasem poradnÃ­m:
+Älen ReviznÃ­ komise ÄŒRK,
+tajemnÃ­k ÄŒRK,
+zÃ¡stupci odbornÃ½ch pracovnÃ­ch skupin rady, jestliÅ¾e projednÃ¡vanÃ© otÃ¡zky souvisÃ­ s pÅ™edmÄ›tem jejich prÃ¡ce.
 
-Tyto stanovy schvaluje sjezd Èeského radioklubu s platností ke dnu 14.bøezna 2009, souèasnì se ruší stanovy ÈRK a jejich dodatky døíve platné.
+
+SnÃ­Å¾Ã­-li se bÄ›hem volebnÃ­ho obdobÃ­ poÄet ÄlenÅ¯ rady, doplnÃ­ se rada vlastnÃ­m rozhodnutÃ­m koopcÃ­. JestliÅ¾e by poÄet kooptovanÃ½ch ÄlenÅ¯ pÅ™evÃ½Å¡il jednu polovinu poÄtu ÄlenÅ¯ rady, bude svolÃ¡n sjezd ÄŒRK.
+
+
+V Äele rady stojÃ­ pÅ™edseda ÄŒRK. PÅ™edseda ÄŒRK
+je nejvyÅ¡Å¡Ã­m pÅ™edstavitelem ÄŒRK,
+Å™Ã­dÃ­ prÃ¡ci Rady ÄŒRK a VÃ½konnÃ©ho vÃ½boru ÄŒRK a odpovÃ­dÃ¡ za ni sjezdu ÄŒRK,
+spolu s mÃ­stopÅ™edsedy ÄŒRK a tajemnÃ­kem ÄŒRK je statutÃ¡rnÃ­m pÅ™edstavitelem ÄŒRK.
+
+
+MÃ­stopÅ™edseda, kterÃ©ho urÄÃ­ pÅ™edseda ÄŒRK (pÅ™i nepÅ™Ã­tomnosti pÅ™edsedy Rada ÄŒRK) zastupuje pÅ™edsedu ÄŒRK v jeho nepÅ™Ã­tomnosti. NemÅ¯Å¾e-li pÅ™edseda ÄŒRK vykonÃ¡vat svoji funkci, mÅ¯Å¾e bÃ½t rozhodnutÃ­m Rady ÄŒRK povÄ›Å™en vÃ½konem jeho funkce jeden z mÃ­stopÅ™edsedÅ¯.
+
+
+Rada jmenuje tajemnÃ­ka ÄŒRK. TajemnÃ­k ÄŒRK
+Å™Ã­dÃ­ prÃ¡ci dobrovolnÃ½ch i honorovanÃ½ch pracovnÃ­kÅ¯ Rady ÄŒRK a odpovÃ­dÃ¡ za ni,
+odpovÃ­dÃ¡ za spisovou agendu, ÃºÄetnÃ­ evidenci rady a za vnitroorganizaÄnÃ­ styk,
+PÅ™Ã­mÃ½m nadÅ™Ã­zenÃ½m tajemnÃ­ka ÄŒRK je pÅ™edseda ÄŒRK nebo jeho zÃ¡stupce.
+
+
+Radu zastupujÃ­ a jejÃ­m jmÃ©nem podepisujÃ­ vÅ¾dy spoleÄnÄ› dva statutÃ¡rnÃ­ pÅ™edstavitelÃ© ÄŒRK dle stanov, nenÃ­-li dÃ¡le uvedeno jinak. Jde-li o styk se stÃ¡nÃ­mi orgÃ¡ny ÄŒR, styk mezinÃ¡rodnÃ­ nebo o pracovnÄ› prÃ¡vnÃ­ vztahy, musÃ­ bÃ½t jednÃ­m z tÄ›chto pÅ™edstavitelÅ¯ pÅ™edseda ÄŒRK (v jeho nepÅ™Ã­tomnosti jeden z mÃ­stopÅ™edsedÅ¯ ÄŒRK). V jednotlivÃ½ch jmenovitÃ½ch pÅ™Ã­padech mÅ¯Å¾e rada ÄŒRK zmocnit dalÅ¡Ã­ zÃ¡stupce.
+
+
+VÃ½daje a jinÃ© zÃ¡vazky Rady ÄŒRK schvaluje Rada ÄŒRK kaÅ¾doroÄnÄ› rozpoÄtem ÄŒRK. Rada schvaluje tÃ©Å¾ zmÄ›ny rozpoÄtu a jakÃ©koli vÃ½daje a jinÃ© zÃ¡vazky mimo rozpoÄet, vÅ¾dy pÅ™ed jejich uskuteÄnÄ›nÃ­m.
+
+
+Rada ÄŒRK a VÃ½konnÃ½ vÃ½bor ÄŒRK mohou jednat a pÅ™ijÃ­mat usnesenÃ­ tÃ©Å¾ s vyuÅ¾itÃ­m technickÃ½ch prostÅ™edkÅ¯. Podrobnosti upravÃ­ Rada ÄŒRK vnitÅ™nÃ­m pÅ™edpisem.
+Â§ 9 - VÃ½konnÃ½ vÃ½bor ÄŒRK
+VÃ½konnÃ½ vÃ½bor uskuteÄÅˆuje rozhodnutÃ­ Rady ÄŒRK a vede bÄ›Å¾nou agendu ÄŒRK.
+
+
+VÃ½konnÃ½ vÃ½bor ÄŒRK jmenuje Rada ÄŒRK. Za Äleny jmenuje pÅ™edsedu ÄŒRK a nejmÃ©nÄ› ÄtyÅ™i dalÅ¡Ã­ Äleny rady. Rada stanovÃ­ nÃ¡plÅˆ Äinnosti, kompetence a odpovÄ›dnost vÃ½konnÃ©ho vÃ½boru a jeho jednotlivÃ½ch ÄlenÅ¯.
+
+
+VÃ½konnÃ½ vÃ½bor zasedÃ¡ zpravidla jedenkrÃ¡t mÄ›sÃ­ÄnÄ›. ZasedÃ¡nÃ­ svolÃ¡vÃ¡ tajemnÃ­k ÄŒRK na pokyn pÅ™edsedy ÄŒRK nebo na Å¾Ã¡dost alespoÅˆ jednÃ© tÅ™etiny ÄlenÅ¯ rady. SvolÃ¡nÃ­ se oznamuje vÅ¡em ÄlenÅ¯m rady a ReviznÃ­ komise ÄŒRK. HlasovÃ¡nÃ­ pÅ™i zasedÃ¡nÃ­ vÃ½boru se mohou zÃºÄastnit vÅ¡ichni ÄlenovÃ© rady, a jeho jednÃ¡nÃ­ s hlasem poradnÃ­m tajemnÃ­k ÄŒRK, ÄlenovÃ© ReviznÃ­ komise ÄŒRK a vedoucÃ­ odbornÃ½ch pracovnÃ­ch skupin rady.
+
+
+NÃ¡vrh je pÅ™ijat, hlasuje-li pro nÄ›j nadpoloviÄnÃ­ vÄ›tÅ¡ina pÅ™Ã­tomnÃ½ch ÄlenÅ¯ Rady ÄŒRK. PÅ™i rovnosti poÄtu hlasÅ¯ rozhoduje hlas pÅ™edsedy ÄŒRK nebo mÃ­stopÅ™edsedy Å™Ã­dÃ­cÃ­ho jednÃ¡nÃ­.
+Â§ 10 - OdbornÃ© pracovnÃ­ skupiny Rady ÄŒRK
+OdbornÃ© pracovnÃ­ skupiny zÅ™izuje Rada ÄŒRK jako svÃ© poradnÃ­ orgÃ¡ny. Jejich Äleny jmenuje Rada ÄŒRK a mohou jimi bÃ½t i neÄlenovÃ© ÄŒRK.
+
+
+Skupinu vede a za jejÃ­ Äinnost odpovÃ­dÃ¡ vedoucÃ­ pracovnÃ­ skupiny jmenovanÃ½ Radou ÄŒRK.
+
+
+Skupina se schÃ¡zÃ­ dle potÅ™eby, dle rozhodnutÃ­ vedoucÃ­ho nebo na pokyn Rady ÄŒRK nebo VÃ½konnÃ©ho vÃ½boru ÄŒRK.
+
+
+Rada ÄŒRK nebo z jejÃ­ho povÄ›Å™enÃ­ VÃ½konnÃ½ vÃ½bor ÄŒRK mohou pracovnÃ­ skupinu zmocnit k jednÃ¡nÃ­ s mezinÃ¡rodnÃ­mi organizacemi nebo stÃ¡tnÃ­mi orgÃ¡ny ÄŒR v odbornÃ½ch zÃ¡leÅ¾itostech, jeÅ¾ jsou pÅ™edmÄ›tem jejÃ­ Äinnosti. VedoucÃ­ skupiny je v takovÃ©m pÅ™Ã­padÄ› povinen jednÃ¡nÃ­ prÅ¯bÄ›Å¾nÄ› konsultovat s pÅ™edsedou ÄŒRK a Å™Ã­dit se jeho pokyny. ZÃ¡vÄ›ry a pÃ­semnÃ¡ dokumentace jednÃ¡nÃ­ budou bez prodlenÃ­ pÅ™edloÅ¾eny povÄ›Å™ujÃ­cÃ­mu orgÃ¡nu ÄŒRK.
+Â§ 11 - ReviznÃ­ komise ÄŒeskÃ©ho radioklubu
+ReviznÃ­ komise ÄŒRK je nezÃ¡vislÃ½m orgÃ¡nem kontrolujÃ­cÃ­m hospodaÅ™enÃ­ Rady ÄŒRK.
+
+
+Komise je volena sjezdem ÄŒRK a je mu odpovÄ›dna za svoji Äinnost. ZpÅ¯sob volby ReviznÃ­ komise ÄŒRK je shodnÃ½ se zpÅ¯sobem volby Rady ÄŒRK. Komisi tvoÅ™Ã­ pÅ™edseda a dva ÄlenovÃ©. PÅ™edsedu reviznÃ­ komise volÃ­ komise ze svÃ©ho stÅ™edu. ÄŒlenstvÃ­ v reviznÃ­ komisi je nesluÄitelnÃ© s ÄlenstvÃ­m v RadÄ› ÄŒRK. PoÄet ÄlenÅ¯ komise mÅ¯Å¾e bÃ½t doplnÄ›n koopcÃ­ o nejvÃ½Å¡e jednoho Älena. Koopci provÃ¡dÃ­ Rada ÄŒRK.
+
+
+ReviznÃ­ komise ÄŒRK
+schÃ¡zÃ­ se nejmÃ©nÄ› dvakrÃ¡t roÄnÄ› ke kontrole hospodaÅ™enÃ­ Rady ÄŒRK,
+informuje Radu ÄŒRK o vÃ½sledcÃ­ch reviznÃ­ Äinnosti,
+podÃ¡vÃ¡ pÃ­semnou reviznÃ­ zprÃ¡vu sjezdu ÄŒRK za volebnÃ­ obdobÃ­.
+
+
+ReviznÃ­ komise je usnÃ¡Å¡enÃ­schopnÃ¡, jsou-li pÅ™Ã­tomni alespoÅˆ dva ÄlenovÃ©. PÅ™i rovnosti hlasÅ¯ rozhoduje hlas pÅ™edsedy komise.
+
+
+ZÃ¡vÄ›ry provedenÃ½ch revizÃ­ musÃ­ bÃ½t zpracovÃ¡ny pÃ­semnÄ› a pÅ™edloÅ¾eny vÅ¡em ÄlenÅ¯m Rady ÄŒRK.
+Â§ 12 - Radiokluby ÄŒeskÃ©ho radioklubu
+Radioklub ÄŒRK musÃ­ tvoÅ™it nejmÃ©nÄ› tÅ™i zletilÃ­ ÄlenovÃ© ÄŒRK. ZÃ¡sady nabytÃ­ a pozbytÃ­ ÄlenstvÃ­ v RK stanovÃ­ ÄlenskÃ¡ schÅ¯ze RK; rozhodnutÃ­ ÄlenskÃ© schÅ¯ze o ÄlenstvÃ­ v RK je koneÄnÃ©. NabytÃ­m nebo pozbytÃ­m ÄlenstvÃ­ v radioklubu ÄŒRK nenÃ­ ovlivnÄ›no ÄlenstvÃ­ Älena v ÄŒRK.
+
+
+Radiokluby ÄŒRK registruje a eviduje Rada ÄŒRK. Radioklub vznikÃ¡ dnem registrace Radou ÄŒRK. Rada zaregistruje radioklub ÄŒRK, jestliÅ¾e o registraci poÅ¾Ã¡dajÃ­ spoleÄnÄ› nejmÃ©nÄ› tÅ™i zaklÃ¡dajÃ­cÃ­ ÄlenovÃ© radioklubu. RegistracÃ­ nabÃ½vÃ¡ radioklub ÄŒRK prÃ¡vnÃ­ subjektivity delegovanÃ© ÄŒeskÃ½m radioklubem.
+
+
+NejvyÅ¡Å¡Ã­m orgÃ¡nem RK je ÄlenskÃ¡ schÅ¯ze. ÄŒlenskÃ© schÅ¯ze majÃ­ prÃ¡vo zÃºÄastnit se vÅ¡ichni ÄlenovÃ© RK. ÄŒlenskou schÅ¯zi svolÃ¡vÃ¡ vÃ½bor RK nejmÃ©nÄ› jedenkrÃ¡t roÄnÄ›. VÃ½bor je povinen oznÃ¡mit konÃ¡nÃ­ schÅ¯ze stejnÃ½m zpÅ¯sobem vÅ¡em ÄlenÅ¯m RK. ÄŒlenskÃ¡ schÅ¯ze musÃ­ bÃ½t svolÃ¡na, poÅ¾Ã¡dÃ¡-li o to nejmÃ©nÄ› 1/3 ÄlenÅ¯ RK nebo revizor RK.
+
+
+ÄŒlenskÃ¡ schÅ¯ze radioklubu Å™eÅ¡Ã­ otÃ¡zky prÃ¡ce RK, jeÅ¾ jÃ­ pÅ™Ã­sluÅ¡Ã­ dle tÄ›chto stanov nebo kterÃ© si svÃ½m rozhodnutÃ­m vyhradÃ­. NejmÃ©nÄ› jedenkrÃ¡t za dva roky volÃ­ pÅ™edsedu RK a Äleny vÃ½boru RK. V RK, kterÃ© obhospodaÅ™ujÃ­ finanÄnÃ­ prostÅ™edky nebo jakÃ½koli jinÃ½ majetek, je volen tÃ©Å¾ revizor RK.
+
+
+ÄŒlenskÃ¡ schÅ¯ze je usnÃ¡Å¡enÃ­schopnÃ¡, je-li pÅ™Ã­tomna alespoÅˆ polovina ÄlenÅ¯ RK. Rozhoduje prostÃ¡ vÄ›tÅ¡ina hlasÅ¯ pÅ™Ã­tomnÃ½ch ÄlenÅ¯ RK. PÅ™i volbÃ¡ch se uplatnÃ­ ustanovenÃ­ Â§ 3 odst.1) pÃ­sm. c) tÄ›chto stanov.
+
+
+ÄŒlenskÃ¡ schÅ¯ze volÃ­ vÃ½bor RK, kterÃ½ je vÃ½konnÃ½m orgÃ¡nem RK; schÅ¯ze stanovÃ­ poÄet ÄlenÅ¯ vÃ½boru. VÃ½bor rozhoduje o zÃ¡leÅ¾itostech RK, jeÅ¾ nejsou vyhrazeny ÄlenskÃ© schÅ¯zi. V Äele vÃ½boru stojÃ­ pÅ™edseda RK, kterÃ½ je za jeho prÃ¡ci odpovÄ›dnÃ½ ÄlenskÃ© schÅ¯zi.
+
+
+Revizor RK je nezÃ¡vislÃ½m kontrolnÃ­m orgÃ¡nem, kterÃ½ kontroluje hospodaÅ™enÃ­ RK. Je odpovÄ›dnÃ½ ÄlenskÃ© schÅ¯zi, mÃ¡ prÃ¡vo zÃºÄastnit se jednÃ¡nÃ­ vÃ½boru RK s hlasem poradnÃ­m.
+
+
+Radiokluby jsou oprÃ¡vnÄ›ny rozhodnutÃ­m ÄlenskÃ© schÅ¯ze stanovit vlastnÃ­ ÄlenskÃ© pÅ™Ã­spÄ›vky, pÅ™Ã­padnÄ› poskytovat vlastnÃ­ ÄlenskÃ© sluÅ¾by. V takovÃ©m pÅ™Ã­padÄ› se uplatnÃ­ ustanovenÃ­ Â§ 3 odst.3) a 6) tÄ›chto stanov.
+
+
+Radioklub ÄŒRK zanikÃ¡ rozhodnutÃ­m ÄlenskÃ© schÅ¯ze nebo zruÅ¡enÃ­m registrace radou ÄŒRK, klesne-li poÄet ÄlenÅ¯ pod mez urÄenou odst. 1). RozhodnutÃ­m rady o zruÅ¡enÃ­ registrace radioklubu pozbÃ½vÃ¡ radioklub prÃ¡vnÃ­ subjektivity delegovanÃ© ÄŒRK, o ÄemÅ¾ budou radÄ› znÃ¡mÃ­ pÅ™edstavitelÃ© radioklubu, pÅ™Ã­padnÄ› i jinÃ© dotÄenÃ© osoby Äi orgÃ¡ny, bez prodlenÃ­ pÃ­semnÄ› vyrozumÄ›ni.
+Â§ 13 - SouÄinnost
+ÄŒeskÃ½ radioklub spolupracuje na zÃ¡kladÄ› smluv a dohod s dalÅ¡Ã­mi radioamatÃ©rskÃ½mi sdruÅ¾enÃ­mi v ÄŒeskÃ© republice a dalÅ¡Ã­mi subjekty sÃ­dlÃ­cÃ­mi v ÄŒR i v zahraniÄÃ­. Smlouvami nesmÃ­ bÃ½t
+poruÅ¡ena svrchovanost a nezÃ¡vislost prÃ¡vnickÃ© osoby ÄŒRK,
+poÅ¡kozeni nebo znevÃ½hodnÄ›ni ÄlenovÃ© ÄŒRK,
+ovlivnÄ›na nepolitiÄnost ÄŒRK,
+pÅ™ijaty zÃ¡vazky nesluÄitelnÃ© s poslÃ¡nÃ­m ÄŒRK podle stanov nebo dle zÃ¡kona.
+
+
+O ÄlenstvÃ­ jinÃ½ch subjektÅ¯ v ÄŒRK jako celku a o ÄlenstvÃ­ ÄŒRK jako celku v jinÃ½ch sdruÅ¾enÃ­ch obÄanÅ¯ rozhoduje sjezd ÄŒRK, neurÄujÃ­-li stanovy ÄŒRK nÄ›co jinÃ©ho.
+Â§ 14 - HospodaÅ™enÃ­ ÄŒeskÃ©ho radioklubu
+KaÅ¾dÃ½ z radioklubÅ¯ ÄŒRK hospodaÅ™Ã­ samostatnÄ› k vlastnÃ­ odpovÄ›dnosti a jeho majetek je jeho vlastnictvÃ­m, pokud ze zpÅ¯sobu nabytÃ­ neplyne nÄ›co jinÃ©ho. ÄŒeskÃ½ radioklub jako celek ani ÄlenovÃ© ÄŒRK neodpovÃ­dajÃ­ za zÃ¡vazky vzniklÃ© jednotlivÃ½m radioklubÅ¯m ÄŒRK, pokud rozhodnutÃ­ sjezdu ÄŒRK nebo Rady ÄŒRK nestanovÃ­ v jednotlivÃ½ch pÅ™Ã­padech jinak.
+
+
+ÄŒeskÃ½ radioklub jako celek a jednotlivÃ© radiokluby ÄŒRK
+nabÃ½vajÃ­, obhospodaÅ™ujÃ­ a zcizujÃ­ majetek vÅ¡emi zpÅ¯soby, kterÃ© pÅ™ipouÅ¡tÃ­ prÃ¡vnÃ­ Å™Ã¡d ÄŒeskÃ© republiky,
+v mezÃ­ch zÃ¡kona mohou zÅ™izovat podnikatelskÃ© subjekty nebo bÃ½t jejich spoleÄnÃ­ky, spoluvlastnÃ­ky, podÃ­lnÃ­ky nebo akcionÃ¡Å™i.
+
+
+Radiokluby ÄŒRK majÃ­ prÃ¡vo vystoupit z ÄŒRK i s majetkem, kterÃ½ je jejich vlastnictvÃ­m, ÄÃ­mÅ¾ nejsou dotÄeny jejich ostatnÃ­ zÃ¡vazky vÅ¯Äi ÄŒRK a dalÅ¡Ã­m osobÃ¡m.
+
+
+KaÅ¾dÃ½ Älen kterÃ©hokoli orgÃ¡nu ÄŒRK pÅ™i hlasovÃ¡nÃ­ orgÃ¡nu o vÃ½dajÃ­ch, zakÃ¡zkÃ¡ch, zÃ¡stavÃ¡ch, zÃ¡rukÃ¡ch a zÃ¡vazcÃ­ch, nebo o pÅ™evodech, nÃ¡jmech, pÅ¯jÄkÃ¡ch nebo vÃ½pÅ¯jÄkÃ¡ch majetku, kterÃ½ orgÃ¡n spravuje, je povinen pÅ™ed hlasovÃ¡nÃ­m orgÃ¡nu oznÃ¡mit pÅ™Ã­padnou skuteÄnost, Å¾e je v jakÃ©mkoli vztahu k subjektu, v jehoÅ¾ prospÄ›ch nebo k jehoÅ¾ tÃ­Å¾i hlasovÃ¡nÃ­ smÄ›Å™uje. TakovÃ½ Älen je povinen zdrÅ¾et se pÅ™Ã­sluÅ¡nÃ©ho hlasovÃ¡nÃ­. V pochybnostech rozhodne o jeho prÃ¡vu hlasovat orgÃ¡n hlasovÃ¡nÃ­m, z nÄ›jÅ¾ je takovÃ½ Älen vylouÄen, a pÅ™i nÄ›mÅ¾ rovnost hlasÅ¯ znamenÃ¡ zamÃ­tnutÃ­ prÃ¡va hlasovat. O splnÄ›nÃ­ oznamovacÃ­ povinnosti a o zdrÅ¾enÃ­ se hlasovÃ¡nÃ­ bude proveden zÃ¡znam v zÃ¡pisu jednÃ¡nÃ­. PÅ™i poruÅ¡enÃ­ uvedenÃ© oznamovacÃ­ povinnosti je orgÃ¡n oprÃ¡vnÄ›n zruÅ¡it usnesenÃ­ dosaÅ¾enÃ© pÅ™Ã­sluÅ¡nÃ½m hlasovÃ¡nÃ­m od samÃ©ho poÄÃ¡tku. Je-li do vÃ½sledkÅ¯ hlasovÃ¡nÃ­ zapoÄten jinak, neÅ¾ jako zdrÅ¾enÃ­ se hlasovÃ¡nÃ­, hlas osoby, kterÃ¡ byla povinna se hlasovÃ¡nÃ­ zdrÅ¾et, je hlasovÃ¡nÃ­ neplatnÃ© od samÃ©ho poÄÃ¡tku.
+Â§ 15 - ZÃ¡nik ÄŒeskÃ©ho radioklubu
+ÄŒeskÃ½ radioklub zanikÃ¡:
+usnesenÃ­m sjezdu ÄŒRK,
+v souladu se zÃ¡konem ÄŒeskÃ© republiky.
+
+
+Zanikne-li ÄŒRK dle odst. 1) pÃ­sm. a), uÄinÃ­ sjezd rozhodnutÃ­ o majetku, kterÃ© vykonÃ¡ Rada ÄŒRK a vÃ½bory RK jako likvidaÄnÃ­ orgÃ¡ny aÅ¾ do vyrovnÃ¡nÃ­ vÅ¡ech majetkovÃ½ch prÃ¡v a povinnostÃ­ a ostatnÃ­ch ÃºkonÅ¯.
+
+
+Zanikne-li ÄŒRK dle odst.1) pÃ­sm. b), budou jeho zÃ¡vazky vypoÅ™Ã¡dÃ¡ny za kaÅ¾dÃ©ho nositele prÃ¡vnÃ­ subjektivity samostatnÄ› do vÃ½Å¡e hodnoty majetku nÃ¡leÅ¾Ã­cÃ­ho tomuto subjektu. ZbylÃ½ majetek ÄŒRK nÃ¡leÅ¾Ã­ rovnÃ½m dÃ­lem vÅ¡em ÄlenÅ¯m registrovanÃ½m Radou ÄŒRK ke dnu zÃ¡niku.
+
+
+Zanikne-li ÄŒRK zpÅ¯sobem neuvedenÃ½m v odst. 1), nÃ¡leÅ¾Ã­ jeho majetek rovnÃ½m dÃ­lem vÅ¡em ÄlenÅ¯m registrovanÃ½m Radou ÄŒRK ke dnu zÃ¡niku.
+Â§ 16 - ZÃ¡vÄ›reÄnÃ¡ ustanovenÃ­
+ÄŒlenstvÃ­ ÄlenÅ¯ a radioklubÅ¯ vzniklÃ© dle pÅ™edchozÃ­ch stanov ÄŒRK zÅ¯stÃ¡vÃ¡ beze zmÄ›ny v platnosti. RozhodnutÃ­ pÅ™edchozÃ­ch sjezdÅ¯ ÄŒRK a rozhodnutÃ­ v minulosti pÅ™ijatÃ¡ Radou ÄŒRK zÅ¯stÃ¡vajÃ­ v platnosti. Dnem pÅ™ijetÃ­ tÄ›chto stanov se znÄ›nÃ­ tÄ›chto rozhodnutÃ­ samoÄinnÄ› upravuje v souladu s tÄ›mito stanovami.
+
+
+Tyto stanovy schvaluje sjezd ÄŒeskÃ©ho radioklubu s platnostÃ­ ke dnu 14.bÅ™ezna 2009, souÄasnÄ› se ruÅ¡Ã­ stanovy ÄŒRK a jejich dodatky dÅ™Ã­ve platnÃ©.
